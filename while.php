@@ -17,7 +17,7 @@
     }
     ?>
     <form action="" method="post">
-        <p><label for="a">開始の数字は？</label>
+        <p><label for="a">開始の数字は何ですか？</label>
         <input type="text" id="num" name="num" value=""></p>
         <p><input type="submit" name="btn_submit" value="計算開始"></p>
     </form>

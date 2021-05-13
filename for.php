@@ -23,7 +23,7 @@
             }
             ?>
             <form action="" method="post">
-                <p><label for="limit">いくつまで足し込みますか？</label>
+                <p><label for="limit">いくつまで足しますか？</label>
                 <input type="text" name="limit" id="limit"></p>
                 <p><input type="submit" name="btn_submit" value="入力"></p>
             </form>

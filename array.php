@@ -21,6 +21,7 @@
             $vegitable[] = "アスパラガス";
             $vegitable[] = "キュウリ";
             $vegitable[] = "ジャガイモ";
+            $vegitable[] = "オクラ";
             ?>
         </section>
         <footer style="background-color:gray">Footer</footer>

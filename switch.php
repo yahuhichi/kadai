@@ -25,7 +25,7 @@ if(!empty($_POST['btn_submit'])){
 }
 ?>
 <form action="" method="post">
-    <p><label for="score">得点は？</label>
+    <p><label for="score">得点は何点？</label>
     <input type="text" name="score" id="score"></p>
     <p><input type="submit" name="btn_submit" value="入力"></p>
 </form>

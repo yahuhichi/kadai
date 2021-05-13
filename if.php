@@ -14,7 +14,7 @@
         if($_POST['score'] < LINE){
             echo "赤点";
         }elseif($_POST['score'] == 100){
-            echo "満点";
+            echo "100点満点";
         }else{
             echo "合格";
         }
