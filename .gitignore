@@ -1,2 +1,4 @@
 # 除外ファイルのテスト
 jogai_test
+.bash_history
+config
